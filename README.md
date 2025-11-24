@@ -3,14 +3,16 @@ Portfolio to show Unity Engine code used in itch.io
 
 For Cameras I used Cinemachine. To change between them used Priority.Value. 
 
+'''
 SceneControl (GameObject)
  └── SceneControl_MoveTest (Script) {  
-    Character List = assign 
-    Camera Controller
-    Character Tabs 
-    Character Stats = 
-    Character Meters = 
+    Character List = Example: LinkController=MoveBasicController, LinkCharacter=CharacterA, UseCameraView=False, CameraTargetOffset=(0, 1, 0).
+    Camera Controller = CameraController
+    Character Tabs = { If want to show in UI }
+    Character Stats = { If want to show in UI }
+    Character Meters = { Only Boat Has it for now. }
 }
+'''
 
 CameraController (GO)
  └── Camera_Controller (Script) { 
