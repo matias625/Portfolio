@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6c288d662a498e4097e611048be33c5, type: 3}
+  m_Name: asset_InputIcons
+  m_EditorClassIdentifier: 
+  listInputs:
+  - schemeName: Keyboard-Left
+    deviceIcon: {fileID: -8481032366745701204, guid: 99a00fe99a10e1c458ad8142e3ae900e, type: 3}
+    inputIcons:
+    - parameter: Stick_Left
+      icon: {fileID: 9112879522459280085, guid: 99a00fe99a10e1c458ad8142e3ae900e, type: 3}
+    - parameter: Stick_Right
+      icon: {fileID: -7806427170622516569, guid: 99a00fe99a10e1c458ad8142e3ae900e, type: 3}
+    - parameter: Btn_North
+      icon: {fileID: 993878777396893618, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Btn_South
+      icon: {fileID: 1122111717951213211, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Btn_East
+      icon: {fileID: 2163915423340575798, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Btn_West
+      icon: {fileID: 8636739445084667505, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Btn_R1
+      icon: {fileID: 2163915423340575798, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Btn_R2
+      icon: {fileID: -7817498968234495970, guid: 99a00fe99a10e1c458ad8142e3ae900e, type: 3}
+    - parameter: Btn_L1
+      icon: {fileID: 0}
+    - parameter: Btn_L2
+      icon: {fileID: -1563468146282381838, guid: 99a00fe99a10e1c458ad8142e3ae900e, type: 3}
+    - parameter: Btn_Start
+      icon: {fileID: -943976086161936189, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Btn_Select
+      icon: {fileID: 993878777396893618, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Reload
+      icon: {fileID: 8636739445084667505, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Crux
+      icon: {fileID: -7806427170622516569, guid: 99a00fe99a10e1c458ad8142e3ae900e, type: 3}
+    - parameter: Tab_Left
+      icon: {fileID: -1557261551836038777, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Tab_Right
+      icon: {fileID: 1122111717951213211, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+  - schemeName: GamePad-Xbox
+    deviceIcon: {fileID: 2936072728923261244, guid: 99a00fe99a10e1c458ad8142e3ae900e, type: 3}
+    inputIcons:
+    - parameter: Stick_Left
+      icon: {fileID: -344188442937040519, guid: 99a00fe99a10e1c458ad8142e3ae900e, type: 3}
+    - parameter: Stick_Right
+      icon: {fileID: -5726859627258485625, guid: 99a00fe99a10e1c458ad8142e3ae900e, type: 3}
+    - parameter: Btn_North
+      icon: {fileID: 3351480416636623683, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Btn_South
+      icon: {fileID: -5104523544257181211, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Btn_East
+      icon: {fileID: 5362094004713506972, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Btn_West
+      icon: {fileID: 7631225223785054632, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Btn_R1
+      icon: {fileID: -8110341105976729880, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Btn_R2
+      icon: {fileID: 8259924310308455870, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Btn_L1
+      icon: {fileID: -4042533162443760035, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Btn_L2
+      icon: {fileID: 3276343594665639778, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Btn_Start
+      icon: {fileID: 965327995123792771, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Btn_Select
+      icon: {fileID: 993878777396893618, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Reload
+      icon: {fileID: -4042533162443760035, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Crux
+      icon: {fileID: -7806427170622516569, guid: 99a00fe99a10e1c458ad8142e3ae900e, type: 3}
+    - parameter: Tab_Left
+      icon: {fileID: -4042533162443760035, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+    - parameter: Tab_Right
+      icon: {fileID: -8110341105976729880, guid: bb4cec3c42083334285b0cc453e69679, type: 3}
+  iconMissing: {fileID: 10915, guid: 0000000000000000f000000000000000, type: 0}
