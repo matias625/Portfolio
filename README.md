@@ -4,9 +4,8 @@ Portfolio to show Unity Engine code used in itch.io
 For Cameras I used Cinemachine. To change between them used Priority.Value. 
 
 SceneControl (GameObject)
- └── SceneControl_MoveTest (Script)
-{  
-    Character List  = assign 
+ └── SceneControl_MoveTest (Script) {  
+    Character List = assign 
     Camera Controller
     Character Tabs 
     Character Stats = 
