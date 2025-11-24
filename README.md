@@ -12,7 +12,6 @@ SceneControl (GameObject)
     Character Stats = { If want to show in UI }
     Character Meters = { Only Boat Has it for now. }
 }
-```
 
 CameraController (GO)
  └── Camera_Controller (Script) { 
@@ -64,3 +63,5 @@ WaterDeformer (GO) { must be in position.y=0}
  ├── WaterMeshDeformer (Script) 
  └── FollowTarget (Script) { 
     used to follow Character with Boat. Follow on X and Z. }
+
+```
